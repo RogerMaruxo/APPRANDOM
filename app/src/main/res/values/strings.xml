@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">APPRANDOM</string>
+    <string name="IV_photograph_content_description" />
+    <string name="IV_photo_content_description" />
+
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Menu 2</string>
+
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Fechar</string>
+    <string name="nome_do_contato">Nome do Contato</string>
+    <string name="_00_0000_0000">(00) 0000–0000</string>
+    <string name="todo">TODO</string>
+</resources>
